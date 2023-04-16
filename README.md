@@ -7,6 +7,13 @@
 [![Introduction-to-SQL.png](https://i.postimg.cc/52y0mmsf/Introduction-to-SQL.png)](https://postimg.cc/68stWCsP)
 
 
+- Intermediate SQL.
+[![Intermediate-SQL.png](https://i.postimg.cc/RFB421L6/Intermediate-SQL.png)](https://postimg.cc/bG37ttMp)
+
+
+
+
+
 
 
 
