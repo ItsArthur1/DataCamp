@@ -9,12 +9,5 @@
 - Intermediate SQL.
 [![Intermediate-SQL.png](https://i.postimg.cc/RFB421L6/Intermediate-SQL.png)](https://postimg.cc/bG37ttMp)
 
-
 - Cleaning Data in Python
 [![Cleaning-Data-in-Python.png](https://i.postimg.cc/bJ3WL1Cj/Cleaning-Data-in-Python.png)](https://postimg.cc/2bL0SLNH)
-
-
-
-
-
-
